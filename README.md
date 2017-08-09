@@ -19,7 +19,8 @@ _With it you can create multilevel menus with infinite categories. Use the Boots
 ## Structure of the table in mysql
 ![alt text](https://webforever.es/data/dms/estructura-base-de-datos-onuba-menujpg.jpg "onuba_menu table mysql")
 
-
+## Example of table contents
+![alt text](https://webforever.es/data/dms/estructura-base-de-datos-onuba-menu-2jpg.jpg "onuba_menu table mysql")
 
 ## Supports
 onuba_menu supports almost all modern browsers:
