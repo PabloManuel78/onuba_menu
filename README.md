@@ -6,6 +6,8 @@ _Onuba_Menu is a Plugin developed by the team of Webforever.es that uses the tec
 
 _With it you can create multilevel menus with infinite categories. Use the Bootstrap class list-group. Although it has themes to use it is not necessary and will match perfectly with your Bootstrap themes._
 
+#### PHP is not necessary. You can write the menu structure directly in HTML and it will work. PHP just makes keeping your menu simple and functional.
+
 ## Features
 * [Minimum code]
 * [Easy inclusion in your project]
