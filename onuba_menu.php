@@ -6,6 +6,7 @@
 
 	$conn->set_charset("utf8");
 
+	// Cambia aquí la ruta de acceso a los ficheros.
 	require("js/onuba_menu_1_0/php/onuba_menu.inc");
 	require("js/onuba_menu_1_0/php/comprobarlogico.inc");
 
