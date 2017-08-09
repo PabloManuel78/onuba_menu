@@ -1,0 +1,62 @@
+/*
+*   Onuba Menú v1.0
+*	PHP · MySql · Bootstrap · Jquery
+*
+*	Developed by 
+*		Pablo Manuel Burrero Sánchez
+*		webforever.es
+*
+*   Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+*
+*   GitHub: https://github.com/PabloManuel78/onuba_menu
+*/
+
+
+
+/*	Onuba Menú
+ **********************************************/
+@keyframes om_kf_entrar{ 
+	0% { opacity:0 }
+	
+	100% { opacity:1 } 
+}
+
+.onuba_menu .om_entrar { 
+	animation: om_kf_entrar 1.5s both;
+}
+
+.onuba_menu .om_salir { 
+	display: none;
+}
+
+/*	Temas para Onuba Menú
+ **********************************************/
+.om_tema_plano .list-group-item{
+	border: 0 !important;
+	background-color: transparent !important;
+}
+.om_tema_plano .list-group-item a{
+    color: inherit !important;
+}
+.om_tema_plano .om_ir{
+    color: #b7b7b7 !important;
+}
+.om_tema_plano .list-group-item.active,
+.om_tema_plano .list-group-item.active:hover{
+	border: 0 !important;
+	background-color: #eee !important;
+    color: inherit !important;
+}
+
+/*	Temas para Onuba Menú
+ **********************************************/
+.om_tema_lista .list-group-item a{
+    color: inherit !important;
+}
+.om_tema_lista .om_ir{
+    color: #1abc9c !important;
+}
+.om_tema_lista .list-group-item.active .om_ir,
+.om_tema_lista .list-group-item.active:hover .om_ir{
+	color: inherit !important;
+}
