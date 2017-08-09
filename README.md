@@ -5,9 +5,14 @@ Plugin with PHP, MySql, Bootstrap and Jquery. Create a multilevel menu with infi
 _Onuba_Menu is a Plugin developed by the team of Webforever.es that uses the technologies PHP, MySql, Bootstrap and Jquery. Occupy 989bytes Less than 1kb!_
 
 _With it you can create multilevel menus with infinite categories. Use the Bootstrap class list-group. Although it has themes to use it is not necessary and will match perfectly with your Bootstrap themes._
+## Features
+* [Código mínimo]
+* [Fácil inclusión en tu proyecto]
+* [Indispensable para muchas subcategorías]
+* [Diseñado especialmente para menús de tienda en línea]
 
 ## Supports
-Freewall supports almost all modern browsers:
+onuba_menu supports almost all modern browsers:
 * Chrome
 * Opera
 * Safari
